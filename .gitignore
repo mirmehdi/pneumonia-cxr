@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/images*/
+data/*.zip
+*.h5
+*.pt
+*.ckpt
+mlruns/
+lightning_logs/
